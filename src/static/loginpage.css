@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+
+fieldset{
+    
+    width:60%;
+    height:200px;
+    display:flex; 
+    justify-content:center;
+    align-items:center;
+}
+
+.formparent{
+    margin:10%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
